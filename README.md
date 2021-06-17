@@ -1,0 +1,1 @@
+This app was built using React, React Hooks, and Context for the frontend and Express for the backend. It gives the details of the beds available in hospitals across Tamilnadu. The source data is fetched from Tamilnadu Website https://stopcorona.tn.gov.in/beds.php
